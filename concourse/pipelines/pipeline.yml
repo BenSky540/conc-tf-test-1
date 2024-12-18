@@ -1,0 +1,6 @@
+resources:
+  - name: git-repo-ben-test
+    type: git
+    icon: github
+    source:
+      uri: www.google.com
